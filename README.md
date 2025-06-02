@@ -39,10 +39,8 @@ The goal of this task is to clean and preprocess the **Netflix Movies and TV Sho
 2. **Handled missing values** using `fillna()` with placeholder values.
 3. **Removed duplicate rows** using `drop_duplicates()`.
 4. **Standardized text columns** (e.g., `country`, `rating`) using string methods.
-5. **Converted date formats** using `pd.to_datetime()` for `date_added`.
-6. **Renamed column headers** to lowercase with underscores.
-7. **Checked and corrected data types** (e.g., converted `release_year` to `int`).
-8. **Exported** the cleaned dataset to a new CSV file.
+5. **Renamed column headers** to lowercase with underscores.
+6. **Exported** the cleaned dataset to a new CSV file.
 
 ---
 
